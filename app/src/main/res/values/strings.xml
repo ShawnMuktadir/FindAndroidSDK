@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FindAndroidSDK</string>
+    <string name="get_android_api_os_version_programmatically">Get android api os version programmatically</string>
+</resources>
